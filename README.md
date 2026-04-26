@@ -1,20 +1,81 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Employee Task Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Employee Task Management Web App** built using React.
+This application helps manage employee tasks efficiently with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## React Compiler
+* 🔐 User Login System
+* 👨‍💼 Employee Dashboard
+* 📋 Task Creation & Management
+* 🎯 Assign Tasks to Employees
+* 📱 Responsive UI (works on all devices)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# EmployeeTask_Management
->>>>>>> e460f3bd57a45d3785082804fa006ce9a401b7b4
+* **Frontend:** React.js, Tailwind CSS
+* **State Management:** React Hooks
+* **Version Control:** Git & GitHub
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/EmployeeTask_Management.git
+
+# Navigate to project folder
+cd EmployeeTask_Management
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 *(Add your deployed link here — Netlify / Vercel)*
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 🎯 Future Improvements
+
+* 🔒 Authentication with backend (JWT)
+* 🗂️ Database integration (MongoDB)
+* 👨‍💻 Role-based access (Admin/User)
+* 📊 Task analytics dashboard
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+
+⭐ If you like this project, don’t forget to give it a star!
