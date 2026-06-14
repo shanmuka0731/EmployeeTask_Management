@@ -42,13 +42,6 @@ npm run dev
 ```
 
 ---
-
-## 🌐 Live Demo
-
-👉 *(Add your deployed link here — Netlify / Vercel)*
-
----
-
 ## 📁 Project Structure
 
 ```
